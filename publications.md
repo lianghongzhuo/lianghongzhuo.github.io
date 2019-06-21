@@ -15,4 +15,4 @@ title: Publications
 - Shuang Li, **Hongzhuo Liang**, and Jianwei Zhang "**Path Planning for Wheeled Mobile Service Robots based on Improved Genetic Algorithm**", in Shanghai International Symposium on Human-Centered Robotics (HCR), 2018 [[PDF]](https://tams.informatik.uni-hamburg.de/people/liang/publications/li2018a.pdf)
 
 ## 2017
-- Zhen Deng, Haojun Guan, Rui Huang, **Hongzhuo Liang**, Liwei Zhang and Jianwei Zhang "**Combining Model-based Q-learning with Structural Knowledge Transfer for Robot Skill Learning**", IEEE Transactions on Cognitive and Developmental Systems, PP(99):1-1,June 2017 [[PDF]](https://ieeexplore.ieee.org/document/7955051/)
+- Zhen Deng, Haojun Guan, Rui Huang, **Hongzhuo Liang**, Liwei Zhang and Jianwei Zhang "**Combining Model-based Q-learning with Structural Knowledge Transfer for Robot Skill Learning**", in IEEE Transactions on Cognitive and Developmental Systems, vol. 11, no. 1, pp. 26-35, March 2019. [[PDF]](https://ieeexplore.ieee.org/document/7955051/)
