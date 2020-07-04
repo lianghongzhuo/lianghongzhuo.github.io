@@ -18,6 +18,7 @@ title: Publications
 
 - Lin Cong, Michael Görner, Philipp Ruppel, **Hongzhuo Liang**, Norman Hendrich, Jianwei Zhang, "**Self-Adapting Recurrent Models for Object Pushing from Learning in Simulation**", International Conference on Intelligent Robots and Systems (IROS) 2020, Las Vegas, USA. [[Code]](https://github.com/HitLyn/RMPPI)
 
+- Jinpeng Mi, **Hongzhuo Liang**, Nikolaos Katzakis, Changshui Zhang and Jianwei Zhang, "**Intention-Related Natural Language Grounding via Object Affordance Detection and Intention Semantic Extraction**", Frontiers in Neurorobotics. [[PDF](https://doi.org/10.3389/fnbot.2020.00026)]
 ## 2019
 - **Hongzhuo Liang**, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, and Jianwei Zhang, "**Making sense of Audio Vibration for Liquid Height Estimation in Robotic Pouring**", International Conference on Intelligent Robots and Systems (IROS) 2019, Macau, China. [[PDF]](https://arxiv.org/abs/1903.00650) [[Video]](https://www.youtube.com/watch?v=Za8dDjGFE1k) [[Code]](https://github.com/lianghongzhuo/AudioPouring)
 
