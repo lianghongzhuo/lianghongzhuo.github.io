@@ -4,7 +4,7 @@ title: Publications
 ---
 # Publications
 ## 2020
-- **Hongzhuo Liang**, Chuangchuang Zhou, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, Fuchun Sun and Jianwei Zhang, "**Robust Robotic Pouring using Audition and Haptics**", International Conference on Intelligent Robots and Systems (IROS) 2020, Las Vegas, USA. [[PDF]](https://arxiv.org/abs/2003.00342) [[Video]](https://youtu.be/_U7zTyS338I) [[Code]](https://github.com/lianghongzhuo/MultimodalPouring)
+- **Hongzhuo Liang**, Chuangchuang Zhou, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, Fuchun Sun, Marcus Stoffel and Jianwei Zhang, "**Robust Robotic Pouring using Audition and Haptics**", International Conference on Intelligent Robots and Systems (IROS) 2020, Las Vegas, USA. [[PDF]](https://arxiv.org/abs/2003.00342) [[Video]](https://youtu.be/_U7zTyS338I) [[Code]](https://github.com/lianghongzhuo/MultimodalPouring)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_U7zTyS338I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -16,7 +16,12 @@ title: Publications
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAj2IWl2ezs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- Lin Cong, Michael Görner, Philipp Ruppel, **Hongzhuo Liang**, Norman Hendrich, Jianwei Zhang, "**Self-Adapting Recurrent Models for Object Pushing from Learning in Simulation**", International Conference on Intelligent Robots and Systems (IROS) 2020, Las Vegas, USA. [[Code]](https://github.com/HitLyn/RMPPI)
+- Lin Cong, Michael Görner, Philipp Ruppel, **Hongzhuo Liang**, Norman Hendrich, Jianwei Zhang, "**Self-Adapting Recurrent Models for Object Pushing from Learning in Simulation**", International Conference on Intelligent Robots and Systems (IROS) 2020, Las Vegas, USA. [[PDF]](https://arxiv.org/abs/2007.13421) [[Video]](https://youtu.be/z-gTJMs9tFg)[[Code]](https://github.com/HitLyn/RMPPI)
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-gTJMs9tFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 - Jinpeng Mi, **Hongzhuo Liang**, Nikolaos Katzakis, Changshui Zhang and Jianwei Zhang, "**Intention-Related Natural Language Grounding via Object Affordance Detection and Intention Semantic Extraction**", Frontiers in Neurorobotics. [[PDF]](https://doi.org/10.3389/fnbot.2020.00026)
 ## 2019
