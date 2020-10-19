@@ -49,4 +49,3 @@ title: Publications
 
 ## 2017
 - Zhen Deng, Haojun Guan, Rui Huang, **Hongzhuo Liang**, Liwei Zhang and Jianwei Zhang "**Combining Model-based Q-learning with Structural Knowledge Transfer for Robot Skill Learning**", in IEEE Transactions on Cognitive and Developmental Systems, vol. 11, no. 1, pp. 26-35, March 2019. [[PDF]](https://ieeexplore.ieee.org/document/7955051/)
-$$ a^2 $$
