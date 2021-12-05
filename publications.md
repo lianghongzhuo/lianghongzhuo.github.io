@@ -5,12 +5,7 @@ title: Publications
 # Publications
 
 ## 2021
-- **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Learn multi-fingered grasping from simulation based on multimodal reinforcement learning**", pre-print. [[Project page]](https://lianghongzhuo.github.io/multifinger_rl_grasp/)
-
-- Lin Cong, **Hongzhuo Liang**, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**", pre-print.
-
-- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", pre-print.
-
+- **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", IEEE Robotics and Automation Letters. [[Project page]](https://lianghongzhuo.github.io/multifinger_rl_grasp/)
 
 ## 2020
 - **Hongzhuo Liang**, Chuangchuang Zhou, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, Fuchun Sun, Marcus Stoffel and Jianwei Zhang, "**Robust Robotic Pouring using Audition and Haptics**", International Conference on Intelligent Robots and Systems (IROS) 2020, Las Vegas, USA. [[Project page]](https://lianghongzhuo.github.io/MultimodalPouring/) [[PDF]](https://arxiv.org/abs/2003.00342) [[Video]](https://youtu.be/_U7zTyS338I) [[Code]](https://github.com/lianghongzhuo/MultimodalPouring)
@@ -65,3 +60,8 @@ title: Publications
 
 ## 2017
 - Zhen Deng, Haojun Guan, Rui Huang, **Hongzhuo Liang**, Liwei Zhang and Jianwei Zhang "**Combining Model-based Q-learning with Structural Knowledge Transfer for Robot Skill Learning**", in IEEE Transactions on Cognitive and Developmental Systems, vol. 11, no. 1, pp. 26-35, March 2019. [[PDF]](https://ieeexplore.ieee.org/document/7955051/)
+
+## Under review
+- Lin Cong, **Hongzhuo Liang**, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**".
+
+- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", pre-print.
