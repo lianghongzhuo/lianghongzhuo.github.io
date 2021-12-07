@@ -7,6 +7,10 @@ title: Publications
 ## 2021
 - **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", IEEE Robotics and Automation Letters. [[Project page]](https://lianghongzhuo.github.io/multifinger_rl_grasp/)
 
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PuYvUxyDnPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 2020
 - **Hongzhuo Liang**, Chuangchuang Zhou, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, Fuchun Sun, Marcus Stoffel and Jianwei Zhang, "**Robust Robotic Pouring using Audition and Haptics**", International Conference on Intelligent Robots and Systems (IROS) 2020, Las Vegas, USA. [[Project page]](https://lianghongzhuo.github.io/MultimodalPouring/) [[PDF]](https://arxiv.org/abs/2003.00342) [[Video]](https://youtu.be/_U7zTyS338I) [[Code]](https://github.com/lianghongzhuo/MultimodalPouring)
 
