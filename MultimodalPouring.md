@@ -9,7 +9,7 @@ In this paper ([arXiv](https://arxiv.org/abs/2003.00342), [code](https://github.
 
 ## Overview
 <div style="text-align:center">
-<img src="images/pipeline.jpg" width="80%" alt="Pipeline" style="margin-left:auto;margin-right:auto;display:block">
+<img src="images/mp_pipeline.jpg" width="80%" alt="Pipeline" style="margin-left:auto;margin-right:auto;display:block">
 </div>
 
 ## Video
@@ -19,17 +19,17 @@ In this paper ([arXiv](https://arxiv.org/abs/2003.00342), [code](https://github.
 
 ## Target containers
 <div style="text-align:center">
-<img src="images/containers.jpg" width="80%" alt="containers" style="margin-left:auto;margin-right:auto;display:block">
+<img src="images/mp_containers.jpg" width="80%" alt="containers" style="margin-left:auto;margin-right:auto;display:block">
 </div>
 
 ## Dataset and experiment setup
 <div style="text-align:center">
-<img src="images/setup.jpg" width="80%" alt="setup" style="margin-left:auto;margin-right:auto;display:block">
+<img src="images/mp_setup.jpg" width="80%" alt="setup" style="margin-left:auto;margin-right:auto;display:block">
 </div>
 
 ## Network
 <div style="text-align:center">
-<img src="images/network.jpg" width="80%" alt="network" style="margin-left:auto;margin-right:auto;display:block">
+<img src="images/mp_network.jpg" width="80%" alt="network" style="margin-left:auto;margin-right:auto;display:block">
 </div>
 
 
