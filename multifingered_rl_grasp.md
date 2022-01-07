@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: project
 title: Multifingered Grasping Based on Multimodal Reinforcement Learning
 ---
 # Multifingered Grasping Based on Multimodal Reinforcement Learning
+
+### [**Hongzhuo Liang**](https://lianghongzhuo.github.io), Lin Cong; Norman Hendrich, Shuang Li, Fuchun Sun, Jianwei Zhang
 
 ## Abstract
 In this work, we solve the multifingered grasping problem using multimodal reinforcement learning.
