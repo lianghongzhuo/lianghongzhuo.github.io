@@ -5,20 +5,20 @@ title: Publications
 # Publications
 
 ## 2021
-- **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", *IEEE Robotics and Automation Letters (RA-L)*, 7(2): 1174-1181, 2022. [[Project page]](./multifingered_rl_grasp)[[PDF]](https://ieeexplore.ieee.org/document/9664242)
+- **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", *IEEE Robotics and Automation Letters (RA-L)*, 7(2): 1174-1181, 2022. [[Project page]](https://lianghongzhuo.github.io/multifingered_rl_grasp)[[PDF]](https://ieeexplore.ieee.org/document/9664242)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PuYvUxyDnPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 2020
-- **Hongzhuo Liang**, Chuangchuang Zhou, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, Fuchun Sun, Marcus Stoffel and Jianwei Zhang, "**Robust Robotic Pouring using Audition and Haptics**", *International Conference on Intelligent Robots and Systems (IROS)*, Las Vegas, USA, 2020. [[Project page]](./MultimodalPouring) [[PDF]](https://arxiv.org/abs/2003.00342) [[Video]](https://youtu.be/_U7zTyS338I) [[Code]](https://github.com/lianghongzhuo/MultimodalPouring)
+- **Hongzhuo Liang**, Chuangchuang Zhou, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, Fuchun Sun, Marcus Stoffel and Jianwei Zhang, "**Robust Robotic Pouring using Audition and Haptics**", *International Conference on Intelligent Robots and Systems (IROS)*, Las Vegas, USA, 2020. [[Project page]](https://lianghongzhuo.github.io/MultimodalPouring) [[PDF]](https://arxiv.org/abs/2003.00342) [[Video]](https://youtu.be/_U7zTyS338I) [[Code]](https://github.com/lianghongzhuo/MultimodalPouring)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_U7zTyS338I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- Shuang Li, Jiaxi Jiang, Philipp Ruppel, **Hongzhuo Liang**, Xiaojian Ma, Norman Hendrich, Fuchun Sun, Jianwei Zhang, "**A Mobile Robot Hand-Arm Teleoperation System by Vision and IMU**", *International Conference on Intelligent Robots and Systems (IROS)*, 2020, Las Vegas, USA. [[Project page]](https://smilels.github.io/multimodal-translation-teleop/) [[PDF]](https://arxiv.org/abs/2003.05212) [[Video]](https://youtu.be/rAj2IWl2ezs) [[Code]](https://github.com/Smilels/multimodal-translation-teleop/)
+- Shuang Li, Jiaxi Jiang, Philipp Ruppel, **Hongzhuo Liang**, Xiaojian Ma, Norman Hendrich, Fuchun Sun, Jianwei Zhang, "**A Mobile Robot Hand-Arm Teleoperation System by Vision and IMU**", *International Conference on Intelligent Robots and Systems (IROS)*, 2020, Las Vegas, USA. [[Project page]](https://smilels.github.io/multimodal-translation-teleop) [[PDF]](https://arxiv.org/abs/2003.05212) [[Video]](https://youtu.be/rAj2IWl2ezs) [[Code]](https://github.com/Smilels/multimodal-translation-teleop/)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAj2IWl2ezs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,13 +34,13 @@ title: Publications
 - Jinpeng Mi, **Hongzhuo Liang**, Nikolaos Katzakis, Changshui Zhang and Jianwei Zhang, "**Intention-Related Natural Language Grounding via Object Affordance Detection and Intention Semantic Extraction**", *Frontiers in Neurorobotics*, 14:1-12, 2020. [[PDF]](https://doi.org/10.3389/fnbot.2020.00026)
 
 ## 2019
-- **Hongzhuo Liang**, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, and Jianwei Zhang, "**Making sense of Audio Vibration for Liquid Height Estimation in Robotic Pouring**", *International Conference on Intelligent Robots and Systems (IROS)*, Macau, China, 2019. [[Project page]](https://lianghongzhuo.github.io/AudioPouring/) [[PDF]](https://arxiv.org/abs/1903.00650) [[Video]](https://www.youtube.com/watch?v=Za8dDjGFE1k) [[Code]](https://github.com/lianghongzhuo/AudioPouring)
+- **Hongzhuo Liang**, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, and Jianwei Zhang, "**Making sense of Audio Vibration for Liquid Height Estimation in Robotic Pouring**", *International Conference on Intelligent Robots and Systems (IROS)*, Macau, China, 2019. [[Project page]](https://lianghongzhuo.github.io/AudioPouring) [[PDF]](https://arxiv.org/abs/1903.00650) [[Video]](https://www.youtube.com/watch?v=Za8dDjGFE1k) [[Code]](https://github.com/lianghongzhuo/AudioPouring)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdIcJb80qPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- **Hongzhuo Liang**, Xiaojian Ma, Shuang Li, Michael Görner, Song Tang, Bin Fang, Fuchun Sun, and Jianwei Zhang, "**PointNetGPD: Detecting Grasp Configurations from Point Sets**", *International Conference on Robotics and Automation (ICRA)*, Montreal, Canada, 2019. [[Project page]](https://lianghongzhuo.github.io/PointNetGPD/)[[PDF]](https://arxiv.org/abs/1809.06267) [[Video]](https://youtu.be/uYl9m8PhfaI) [[Code]](https://github.com/lianghongzhuo/PointNetGPD)
+- **Hongzhuo Liang**, Xiaojian Ma, Shuang Li, Michael Görner, Song Tang, Bin Fang, Fuchun Sun, and Jianwei Zhang, "**PointNetGPD: Detecting Grasp Configurations from Point Sets**", *International Conference on Robotics and Automation (ICRA)*, Montreal, Canada, 2019. [[Project page]](https://lianghongzhuo.github.io/PointNetGPD)[[PDF]](https://arxiv.org/abs/1809.06267) [[Video]](https://youtu.be/uYl9m8PhfaI) [[Code]](https://github.com/lianghongzhuo/PointNetGPD)
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uYl9m8PhfaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
