@@ -1,3 +1,8 @@
+---
+layout: default
+title: Multifingered Grasping Based on Multimodal Reinforcement Learning
+---
+
 ## Abstract
 In this work, we solve the multifingered grasping problem using multimodal reinforcement learning.
 The simulation and real robot experiments with dedicated initial grasping poses show that our method outperforms hard-coded closing finger motion and the agent with fewer modalities in the grasp success rate for seen and unseen objects.
