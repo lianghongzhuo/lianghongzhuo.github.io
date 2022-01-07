@@ -2,6 +2,7 @@
 layout: default
 title: Multifingered Grasping Based on Multimodal Reinforcement Learning
 ---
+# Multifingered Grasping Based on Multimodal Reinforcement Learning
 
 ## Abstract
 In this work, we solve the multifingered grasping problem using multimodal reinforcement learning.

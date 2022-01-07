@@ -5,7 +5,7 @@ title: Publications
 # Publications
 
 ## 2021
-- **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", *IEEE Robotics and Automation Letters (RA-L)*, 7(2): 1174-1181, 2022. [[Project page]](https://lianghongzhuo.github.io/multifinger_rl_grasp/)[[PDF]](https://ieeexplore.ieee.org/document/9664242)
+- **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", *IEEE Robotics and Automation Letters (RA-L)*, 7(2): 1174-1181, 2022. [[Project page]](./multifinger_rl_grasp/)[[PDF]](https://ieeexplore.ieee.org/document/9664242)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PuYvUxyDnPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
