@@ -21,13 +21,13 @@ PDF file can be downloaded from [here](https://ieeexplore.ieee.org/document/9664
 
 ```plain
 @article{liang2022,
-  author={Liang, Hongzhuo and Cong, Lin and Hendrich, Norman and Li, Shuang and Sun, Fuchun and Zhang, Jianwei},
-  journal={IEEE Robotics and Automation Letters (RA-L)},
-  title={Multifingered Grasping Based on Multimodal Reinforcement Learning},
-  year={2022},
-  volume={7},
-  number={2},
-  pages={1174-1181},
-  doi={10.1109/LRA.2021.3138545}
+  author  = {Liang, Hongzhuo and Cong, Lin and Hendrich, Norman and Li, Shuang and Sun, Fuchun and Zhang, Jianwei},
+  journal = {IEEE Robotics and Automation Letters (RA-L)},
+  title   = {Multifingered Grasping Based on Multimodal Reinforcement Learning},
+  year    = {2022},
+  volume  = {7},
+  number  = {2},
+  pages   = {1174-1181},
+  doi     = {10.1109/LRA.2021.3138545}
 }
 ```
