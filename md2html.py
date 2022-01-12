@@ -50,7 +50,7 @@ html_head = """
 
 # python3 -m markdown2 publications.md > publications.html
 html = markdown2.markdown_path("publications.md")
-with open("index.inc", "w") as h:\
+with open("index.inc", "w") as h:
     h.write(html_head + html[62:])
 print("run this code to update the tams website:")
-print("scp index.inc liang@rzssh1.informatik.uni-hamburg.de:/informatik2/tams/public/www/htdocs/people/liang")
+print("scp index.inc liang@uhh:/informatik2/tams/public/www/htdocs/people/liang")
