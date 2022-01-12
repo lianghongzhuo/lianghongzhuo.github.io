@@ -4,6 +4,8 @@ title: Publications
 ---
 # Publications
 
+[![Google Scholar](https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png)](https://scholar.google.com/citations?user=MLOQS4IAAAAJ)
+
 ## 2021
 - **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", *IEEE Robotics and Automation Letters (RA-L)*, 7(2): 1174-1181, 2022. [[Project page]](https://lianghongzhuo.github.io/project/multifingered_rl_grasp)[[PDF]](https://ieeexplore.ieee.org/document/9664242)
 
@@ -51,22 +53,23 @@ title: Publications
 - Shuang Li, Xiaojian Ma, **Hongzhuo Liang**, Michael Görner, Philipp Ruppel, Bin Fang, Fuchun Sun, and Jianwei Zhang, "**Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network**", *International Conference on Robotics and Automation (ICRA)*, Montreal, Canada, 2019. [[PDF]](https://arxiv.org/abs/1809.06268) [[Video]](https://youtu.be/I1FTJ87CtDs) [[Code]](https://github.com/TAMS-Group/TeachNet_Teleoperation)
 
 <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I1FTJ87CtDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JG7TUtMAxnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 2018
 
-- **Hongzhuo Liang**, Shuang Li, Michael Görner, and Jianwei Zhang "**Generating Robust Grasps for Unknown Objects in Clutter Using Point Cloud Data**", *Shanghai International Symposium on Human-Centered Robotics (HCR)*, 2018. [[PDF]](https://tams.informatik.uni-hamburg.de/people/liang/publications/liang2018a.pdf)
+- **Hongzhuo Liang**, Shuang Li, Michael Görner, and Jianwei Zhang, "**Generating Robust Grasps for Unknown Objects in Clutter Using Point Cloud Data**", *Shanghai International Symposium on Human-Centered Robotics (HCR)*, 2018. [[PDF]](https://tams.informatik.uni-hamburg.de/people/liang/publications/liang2018a.pdf)
+
 <div style="text-align:center">
 <img src="data/liang2018afig.jpg" width="80%">
 </div>
 
-- Shuang Li, **Hongzhuo Liang**, and Jianwei Zhang "**Path Planning for Wheeled Mobile Service Robots based on Improved Genetic Algorithm**", *Shanghai International Symposium on Human-Centered Robotics (HCR)*, 2018. [[PDF]](https://tams.informatik.uni-hamburg.de/people/liang/publications/li2018a.pdf)
+- Shuang Li, **Hongzhuo Liang**, and Jianwei Zhang, "**Path Planning for Wheeled Mobile Service Robots based on Improved Genetic Algorithm**", *Shanghai International Symposium on Human-Centered Robotics (HCR)*, 2018. [[PDF]](https://tams.informatik.uni-hamburg.de/people/liang/publications/li2018a.pdf)
 
 ## 2017
-- Zhen Deng, Haojun Guan, Rui Huang, **Hongzhuo Liang**, Liwei Zhang and Jianwei Zhang "**Combining Model-based Q-learning with Structural Knowledge Transfer for Robot Skill Learning**", *IEEE Transactions on Cognitive and Developmental Systems*, 11(1):26-35, 2019. [[PDF]](https://ieeexplore.ieee.org/document/7955051/)
+- Zhen Deng, Haojun Guan, Rui Huang, **Hongzhuo Liang**, Liwei Zhang and Jianwei Zhang, "**Combining Model-based Q-learning with Structural Knowledge Transfer for Robot Skill Learning**", *IEEE Transactions on Cognitive and Developmental Systems*, 11(1):26-35, 2019. [[PDF]](https://ieeexplore.ieee.org/document/7955051/)
 
 ## Under review
-- Lin Cong, **Hongzhuo Liang**, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**", under review.
+- Lin Cong, **Hongzhuo Liang**, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**", *under review*.
 
-- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", under review.
+- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", *under review*.
