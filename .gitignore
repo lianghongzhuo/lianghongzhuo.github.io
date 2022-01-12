@@ -2,4 +2,4 @@ Gemfile.lock
 _site
 .jekyll-metadata
 .jekyll-cache/
-publications.html
+index.inc
