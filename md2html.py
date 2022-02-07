@@ -3,8 +3,7 @@
 # install markdown2 via: pip3 install markdown2
 import markdown2
 
-html_head = """
-<!-- Hongzhuo Liang -->
+html_head = """<!-- Hongzhuo Liang -->
 <h1>Hongzhuo Liang</h1>
 <hr>
 
