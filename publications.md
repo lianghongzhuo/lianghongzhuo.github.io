@@ -15,6 +15,14 @@ title: Publications
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PuYvUxyDnPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+- Lin Cong, **Hongzhuo Liang**, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**", *Frontiers in Neurorobotics*, 2022.
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffXmOHrG5HY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", *Journal of Intelligent & Robotic Systems*, 2022.
+
 ## 2020
 - **Hongzhuo Liang**, Chuangchuang Zhou, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, Fuchun Sun, Marcus Stoffel and Jianwei Zhang, "**Robust Robotic Pouring using Audition and Haptics**", *International Conference on Intelligent Robots and Systems (IROS)*, Las Vegas, USA, 2020. [[Project page]](https://lianghongzhuo.github.io/MultimodalPouring) [[PDF]](https://arxiv.org/abs/2003.00342) [[Video]](https://youtu.be/_U7zTyS338I) [[Code]](https://github.com/lianghongzhuo/MultimodalPouring)
 
@@ -70,8 +78,3 @@ title: Publications
 
 ## 2017
 - Zhen Deng, Haojun Guan, Rui Huang, **Hongzhuo Liang**, Liwei Zhang and Jianwei Zhang, "**Combining Model-based Q-learning with Structural Knowledge Transfer for Robot Skill Learning**", *IEEE Transactions on Cognitive and Developmental Systems*, 11(1):26-35, 2019. [[PDF]](https://ieeexplore.ieee.org/document/7955051/)
-
-## Under review
-- Lin Cong, **Hongzhuo Liang**, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**", *under review*.
-
-- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", *under review*.
