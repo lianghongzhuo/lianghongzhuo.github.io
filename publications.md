@@ -8,20 +8,27 @@ title: Publications
 <a href="https://scholar.google.com/citations?user=MLOQS4IAAAAJ"><img src="https://lianghongzhuo.github.io/data/google_scholar.svg" alt="Google Scholar" style="width:40%"></a>
 </div>
 
+## 2022
+- Shuang Li, Norman Hendrich, **Hongzhuo Liang**, Philipp Ruppel, Changshui Zhang, Jianwei Zhang, "**A Dexterous Hand-Arm Teleoperation System based on Hand Pose Estimation and Active Vision**", *IEEE Transactions on Cybernetics*.
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M4Awsakvijk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- Lin Cong, **Hongzhuo Liang**, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**", *Frontiers in Neurorobotics*, 2022. [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2022.829437/)
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffXmOHrG5HY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", *Journal of Intelligent & Robotic Systems*, 2022. [[PDF]](https://link.springer.com/article/10.1007/s10846-022-01586-4)
+
 ## 2021
 - **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", *IEEE Robotics and Automation Letters (RA-L)*, 7(2): 1174-1181, 2022. [[Project page]](https://lianghongzhuo.github.io/multifingered_rl_grasp)[[PDF]](https://ieeexplore.ieee.org/document/9664242)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PuYvUxyDnPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- Lin Cong, **Hongzhuo Liang**, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**", *Frontiers in Neurorobotics*, 2022.
-
-<div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ffXmOHrG5HY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", *Journal of Intelligent & Robotic Systems*, 2022.
 
 ## 2020
 - **Hongzhuo Liang**, Chuangchuang Zhou, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, Fuchun Sun, Marcus Stoffel and Jianwei Zhang, "**Robust Robotic Pouring using Audition and Haptics**", *International Conference on Intelligent Robots and Systems (IROS)*, Las Vegas, USA, 2020. [[Project page]](https://lianghongzhuo.github.io/MultimodalPouring) [[PDF]](https://arxiv.org/abs/2003.00342) [[Video]](https://youtu.be/_U7zTyS338I) [[Code]](https://github.com/lianghongzhuo/MultimodalPouring)
