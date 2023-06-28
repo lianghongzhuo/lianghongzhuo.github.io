@@ -8,8 +8,15 @@ title: Publications
 <a href="https://scholar.google.com/citations?user=MLOQS4IAAAAJ"><img src="https://lianghongzhuo.github.io/data/google_scholar.svg" alt="Google Scholar" style="width:40%"></a>
 </div>
 
+## 2023
+- Hao Zhang, **Hongzhuo Liang**, Lin Cong, Jianzhi Lyu, Long Zeng, Pingfa Feng, and Jianwei Zhang, "**Reinforcement Learning Based Pushing and Grasping Objects from Ungraspable Poses**", *International Conference on Robotics and Automation (ICRA)*, ExCel London, UK, 2023. [[PDF]](https://arxiv.org/abs/2302.13328/)[[Project page]](https://haozhang990127.github.io/PaG/)
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sitnIslp8vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## 2022
-- Shuang Li, Norman Hendrich, **Hongzhuo Liang**, Philipp Ruppel, Changshui Zhang, Jianwei Zhang, "**A Dexterous Hand-Arm Teleoperation System based on Hand Pose Estimation and Active Vision**", *IEEE Transactions on Cybernetics*.
+- Shuang Li, Norman Hendrich, **Hongzhuo Liang**, Philipp Ruppel, Changshui Zhang, Jianwei Zhang, "**A Dexterous Hand-Arm Teleoperation System based on Hand Pose Estimation and Active Vision**", *IEEE Transactions on Cybernetics*. [[PDF]](https://ieeexplore.ieee.org/document/9906807/)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M4Awsakvijk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,7 +31,7 @@ title: Publications
 - Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", *Journal of Intelligent & Robotic Systems*, 2022. [[PDF]](https://link.springer.com/article/10.1007/s10846-022-01586-4)
 
 ## 2021
-- **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", *IEEE Robotics and Automation Letters (RA-L)*, 7(2): 1174-1181, 2022. [[Project page]](https://lianghongzhuo.github.io/multifingered_rl_grasp)[[PDF]](https://ieeexplore.ieee.org/document/9664242)
+- **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", *IEEE Robotics and Automation Letters (RA-L)*, 7(2): 1174-1181, 2022. The contents of this paper were also selected by ICRA’2023 Program Committee for presentation at the Conference. [[Project page]](https://lianghongzhuo.github.io/multifingered_rl_grasp)[[PDF]](https://ieeexplore.ieee.org/document/9664242)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PuYvUxyDnPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
