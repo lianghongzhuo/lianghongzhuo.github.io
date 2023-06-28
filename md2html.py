@@ -4,7 +4,7 @@
 import markdown2
 
 html_head = """<!-- Hongzhuo Liang -->
-<h1>Hongzhuo Liang</h1>
+<h1>Dr. Hongzhuo Liang</h1>
 <hr>
 
 <img src="img/liang.jpg" width="225" alt="Hongzhuo Liang" style="margin-left:25px;float:right; border-style:solid; border-width:1px; border-color:#000;">

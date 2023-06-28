@@ -30,6 +30,10 @@ title: Publications
 
 - Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", *Journal of Intelligent & Robotic Systems*, 2022. [[PDF]](https://link.springer.com/article/10.1007/s10846-022-01586-4)
 
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-3x-q2wxs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## 2021
 - **Hongzhuo Liang**, Lin Cong, Norman Hendrich, Shuang Li, Fuchun Sun and Jianwei Zhang, "**Multifingered Grasping Based on Multimodal Reinforcement Learning**", *IEEE Robotics and Automation Letters (RA-L)*, 7(2): 1174-1181, 2022. The contents of this paper were also selected by ICRA’2023 Program Committee for presentation at the Conference. [[Project page]](https://lianghongzhuo.github.io/multifingered_rl_grasp)[[PDF]](https://ieeexplore.ieee.org/document/9664242)
 
@@ -58,6 +62,10 @@ title: Publications
 
 
 - Jinpeng Mi, **Hongzhuo Liang**, Nikolaos Katzakis, Changshui Zhang and Jianwei Zhang, "**Intention-Related Natural Language Grounding via Object Affordance Detection and Intention Semantic Extraction**", *Frontiers in Neurorobotics*, 14:1-12, 2020. [[PDF]](https://doi.org/10.3389/fnbot.2020.00026)
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vAzXFES_Keg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## 2019
 - **Hongzhuo Liang**, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, and Jianwei Zhang, "**Making sense of Audio Vibration for Liquid Height Estimation in Robotic Pouring**", *International Conference on Intelligent Robots and Systems (IROS)*, Macau, China, 2019. [[Project page]](https://lianghongzhuo.github.io/AudioPouring) [[PDF]](https://arxiv.org/abs/1903.00650) [[Video]](https://www.youtube.com/watch?v=Za8dDjGFE1k) [[Code]](https://github.com/lianghongzhuo/AudioPouring)
