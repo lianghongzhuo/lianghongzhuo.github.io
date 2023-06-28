@@ -7,6 +7,7 @@ title: Publications
 <div style="text-align:left">
 <a href="https://scholar.google.com/citations?user=MLOQS4IAAAAJ"><img src="https://lianghongzhuo.github.io/data/google_scholar.svg" alt="Google Scholar" style="width:40%"></a>
 </div>
+* This page contains YouTube videos.
 
 ## 2023
 - Hao Zhang, **Hongzhuo Liang**, Lin Cong, Jianzhi Lyu, Long Zeng, Pingfa Feng, and Jianwei Zhang, "**Reinforcement Learning Based Pushing and Grasping Objects from Ungraspable Poses**", *International Conference on Robotics and Automation (ICRA)*, ExCel London, UK, 2023. [[PDF]](https://arxiv.org/abs/2302.13328/)[[Project page]](https://haozhang990127.github.io/PaG/)
@@ -98,5 +99,14 @@ title: Publications
 
 - Shuang Li, **Hongzhuo Liang**, and Jianwei Zhang, "**Path Planning for Wheeled Mobile Service Robots based on Improved Genetic Algorithm**", *Shanghai International Symposium on Human-Centered Robotics (HCR)*, 2018. [[PDF]](https://tams.informatik.uni-hamburg.de/people/liang/publications/li2018a.pdf)
 
+<div style="text-align:center">
+<img src="data/li2018afig.svg" width="80%">
+</div>
+
+
 ## 2017
 - Zhen Deng, Haojun Guan, Rui Huang, **Hongzhuo Liang**, Liwei Zhang and Jianwei Zhang, "**Combining Model-based Q-learning with Structural Knowledge Transfer for Robot Skill Learning**", *IEEE Transactions on Cognitive and Developmental Systems*, 11(1):26-35, 2019. [[PDF]](https://ieeexplore.ieee.org/document/7955051/)
+
+<div style="text-align:center">
+<img src="data/deng2017fig.jpg" width="80%">
+</div>
