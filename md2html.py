@@ -22,7 +22,7 @@ html_head = """<!-- Hongzhuo Liang -->
     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
     <tr>
     <td align="right"><b>position:</b></td>
-    <td>&nbsp; PhD student</td>
+    <td>&nbsp; Research Associate</td>
     </tr>
     <tr>
     <td align="right"><b>room:</b></td>
