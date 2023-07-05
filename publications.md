@@ -7,6 +7,7 @@ title: Publications
 <div style="text-align:left">
 <a href="https://scholar.google.com/citations?user=MLOQS4IAAAAJ"><img src="https://lianghongzhuo.github.io/data/google_scholar.svg" alt="Google Scholar" style="width:40%"></a>
 </div>
+
 * This page contains YouTube videos.
 
 ## 2023
@@ -23,13 +24,13 @@ title: Publications
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M4Awsakvijk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- Lin Cong, **Hongzhuo Liang**, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**", *Frontiers in Neurorobotics*, 2022. [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2022.829437/)
+- Lin Cong, **Hongzhuo Liang\***, Philipp Ruppel, Yunlei Shi, Michael Görner, Norman Hendrich, and Jianwei Zhang, "**Reinforcement Learning with Visio-Proprioception Model for Robot Planar Pushing**", *Frontiers in Neurorobotics*, 2022. [[PDF]](https://www.frontiersin.org/articles/10.3389/fnbot.2022.829437/)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ffXmOHrG5HY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", *Journal of Intelligent & Robotic Systems*, 2022. [[PDF]](https://link.springer.com/article/10.1007/s10846-022-01586-4)
+- Wenkai Chen, **Hongzhuo Liang\***, Zhaopeng Chen, Fuchun Sun and Jianwei Zhang, "**Improving Object Grasp Performance via Transformer-based Sparse Shape Completion**", *Journal of Intelligent & Robotic Systems*, 2022. [[PDF]](https://link.springer.com/article/10.1007/s10846-022-01586-4)
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-3x-q2wxs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
