@@ -11,6 +11,12 @@ title: Publications
 * This page contains YouTube videos.
 
 ## 2023
+- Wenkai Chen, Chao Zeng, **Hongzhuo Liang**, Fuchun Sun, Jianwei Zhang, "**Multimodality Driven Impedance-Based Sim2Real Transfer Learning for Robotic Multiple Peg-in-Hole Assembly**", *IEEE Transactions on Cybernetics* [[PDF]](https://ieeexplore.ieee.org/document/10251991)
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mZg4Afk_720?si=isXsPUYlUIgx7h5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 - Hao Zhang, **Hongzhuo Liang**, Lin Cong, Jianzhi Lyu, Long Zeng, Pingfa Feng, and Jianwei Zhang, "**Reinforcement Learning Based Pushing and Grasping Objects from Ungraspable Poses**", *International Conference on Robotics and Automation (ICRA)*, ExCel London, UK, 2023. [[PDF]](https://arxiv.org/abs/2302.13328/)[[Project page]](https://haozhang990127.github.io/PaG/)
 
 <div style="text-align:center">
@@ -18,6 +24,13 @@ title: Publications
 </div>
 
 ## 2022
+
+- Wenkai Chen, **Hongzhuo Liang**, Zhaopeng Chen, Fuchun Sun, Jianwei Zhang, "**Learning 6-DoF Task-oriented Grasp Detection via Implicit Estimation and Visual Affordance**", *International Conference on Intelligent Robots and Systems (IROS)*, Kyoto, Japan, 2022. [[PDF]](https://arxiv.org/abs/2210.08537)
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fkyN0Qe8yZw?si=Fpv41Ympog9OcWsP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 - Shuang Li, Norman Hendrich, **Hongzhuo Liang**, Philipp Ruppel, Changshui Zhang, Jianwei Zhang, "**A Dexterous Hand-Arm Teleoperation System based on Hand Pose Estimation and Active Vision**", *IEEE Transactions on Cybernetics*. [[PDF]](https://ieeexplore.ieee.org/document/9906807/)
 
 <div style="text-align:center">
